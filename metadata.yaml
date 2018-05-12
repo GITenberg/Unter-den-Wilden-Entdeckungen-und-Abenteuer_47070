@@ -1,10 +1,16 @@
 _repo: Unter-den-Wilden-Entdeckungen-und-Abenteuer_47070
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47070-h/images/cover.jpg
 creator:
   author:
     agent_name: Heilborn, Adolf
     gutenberg_agent_id: '44119'
     url: http://www.gutenberg.org/2009/agents/44119
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47070#Unter-den-Wilden-Entdeckungen-und-Abenteuer
 gutenberg_issued: '2014-10-06'
 gutenberg_type: Text
 identifiers:
